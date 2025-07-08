@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\dto\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\dto\\createtaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\dto\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Migrations\\20250707182913_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskManagement\\Migrations\\20250707182913_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\taskmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\taskmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\migrations\\20250703001705_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\migrations\\20250703001705_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|c:\\users\\dell latitude 7300\\source\\repos\\taskmanagement\\taskmanagement\\migrations\\20250705185356_taskstatusadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3206CF09-DA4F-44D1-84EE-60E1C7BBA435}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\migrations\\20250705185356_taskstatusadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250707182913_update.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Migrations\\20250707182913_update.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Migrations\\20250707182913_update.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Migrations\\20250707182913_update.cs",
+              "RelativeToolTip": "TaskManagement\\Migrations\\20250707182913_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T18:29:13.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManagement\\Services\\TaskService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:51:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\appsettings.json",
+              "RelativeToolTip": "TaskManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T14:29:54.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Enums\\Status.cs",
+              "RelativeToolTip": "TaskManagement\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:48:27.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\AppDbContext.cs",
+              "RelativeToolTip": "TaskManagement\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:46:04.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Models\\MyTask.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Models\\MyTask.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Models\\MyTask.cs",
+              "RelativeToolTip": "TaskManagement\\Models\\MyTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:16:12.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\DTO\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\DTO\\TaskDTO.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\DTO\\TaskDTO.cs",
+              "RelativeToolTip": "TaskManagement\\DTO\\TaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:51:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\DTO\\CreateTaskDTO.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\DTO\\CreateTaskDTO.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\DTO\\CreateTaskDTO.cs",
+              "RelativeToolTip": "TaskManagement\\DTO\\CreateTaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:34:51.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeToolTip": "TaskManagement\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:44:34.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+              "RelativeDocumentMoniker": "TaskManagement\\TaskManagement.csproj",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\TaskManagement.csproj",
+              "RelativeToolTip": "TaskManagement\\TaskManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T14:34:36.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagement\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:47:06.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagement\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:54:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250703001705_initial.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Migrations\\20250703001705_initial.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Migrations\\20250703001705_initial.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Migrations\\20250703001705_initial.cs",
+              "RelativeToolTip": "TaskManagement\\Migrations\\20250703001705_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:17:05.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250705185356_taskStatusAdded.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Migrations\\20250705185356_taskStatusAdded.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Migrations\\20250705185356_taskStatusAdded.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Migrations\\20250705185356_taskStatusAdded.cs",
+              "RelativeToolTip": "TaskManagement\\Migrations\\20250705185356_taskStatusAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:53:58.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Repositories\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Repositories\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Repositories\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskManagement\\Repositories\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:45:56.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaskManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaskManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T17:17:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\DELL LATITUDE 7300\\source\\repos\\TaskManagement\\TaskManagement\\Services\\ITaskService.cs",
+              "RelativeToolTip": "TaskManagement\\Services\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:50:48.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
