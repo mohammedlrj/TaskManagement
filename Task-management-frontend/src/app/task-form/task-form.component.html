@@ -1,0 +1,63 @@
+<div class="container mt-4">
+  <h2>{{ isEditMode ? 'Edit Task' : 'Create Task' }}</h2>
+  <form (ngSubmit)="onSubmit()" #taskForm="ngForm">
+    <div class="mb-3">
+      <label for="name" class="form-label">Name</label>
+      <input
+        id="name"
+        name="name"
+        [(ngModel)]="task.name"
+        class="form-control"
+        required
+      />
+    </div>
+
+    <div class="mb-3">
+      <label for="description" class="form-label">Description</label>
+      <textarea
+        id="description"
+        name="description"
+        [(ngModel)]="task.description"
+        class="form-control"
+        required
+      ></textarea>
+    </div>
+
+    <div class="mb-3">
+        <label for="type" class="form-label">Type</label>
+        <select
+            id="type"
+            name="type"
+            [(ngModel)]="task.type"
+            class="form-select"
+            required
+        >
+            <option value="" disabled>Select task type</option>
+            <option *ngFor="let t of taskTypes" [value]="t">{{ t }}</option>
+        </select>
+    </div>
+
+    <div class="mb-3" *ngIf="isEditMode">
+        <label for="status" class="form-label">Status</label>
+        <select
+          id="status"
+          name="status"
+          [(ngModel)]="task.status"
+          class="form-select"
+          required
+        >
+          <option value="" disabled>Select status</option>
+          <option *ngFor="let s of taskStatuses" [value]="s.value">{{ s.label }}</option>
+        </select>
+    </div>
+
+
+
+    <button type="submit" class="btn btn-primary" [disabled]="taskForm.invalid">
+      {{ isEditMode ? 'Update' : 'Create' }}
+    </button>
+    <button type="button" class="btn btn-secondary ms-2" (click)="router.navigate(['/tasks'])">
+      Cancel
+    </button>
+  </form>
+</div>
